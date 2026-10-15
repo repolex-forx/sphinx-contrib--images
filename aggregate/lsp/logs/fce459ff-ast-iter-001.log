@@ -1,0 +1,7 @@
+[2026-10-15T09:38:46Z] === AST ITERATION 1 START | repo=sphinx-contrib/images sha=fce459ff ===
+[2026-10-15T09:38:46Z] [iter=1] PHASE START: ast repo=sphinx-contrib/images sha=fce459ff
+[2026-10-15T09:38:46Z] [iter=1] Building AST aggregate chunks
+[2026-10-15T09:38:47Z] [iter=1] AST chunks built count=1 triples=25221
+[2026-10-15T09:38:47Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/fce459ff975a74266f3fbcc3d0850f33d7b09202/.complete
+[2026-10-15T09:38:47Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-15T09:38:47Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
